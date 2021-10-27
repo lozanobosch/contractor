@@ -1,0 +1,8 @@
+TERMINAL
+cd carpeta
+----
+php -S localhost:8000 kirby/router.php
+----
+http://localhost:8080
+---
+http://localhost:8080/panel/login
